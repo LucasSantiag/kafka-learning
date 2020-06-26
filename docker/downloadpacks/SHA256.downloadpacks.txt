@@ -1,0 +1,2 @@
+b9582bab0c3e8d131953b1afa72d6885ca1caae0061c2623071e7f396f2ccfee *target/downloadpacks/kafka.tgz
+3d11e467f01ff0936d8bdb51f80a18d1f38dd4f394b43a1d89cc7afc5cdb418d *target/downloadpacks/zookeeper.tar.gz
